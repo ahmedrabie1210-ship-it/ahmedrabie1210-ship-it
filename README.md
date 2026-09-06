@@ -10,11 +10,15 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420px"/>
 
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedrabie1210-ship-it\&style=for-the-badge\&color=0e75b6\&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
-# 👋 WHO AM I?
+#  WHO AM I?
 
 I'm **Ahmed Rabie Mahmoud** — an **AI Engineer and Full Stack Graphic Designer** passionate about the intersection between **Artificial Intelligence, Software Engineering, Data, and Visual Creativity**.
 
@@ -52,10 +56,12 @@ I believe that technology becomes truly powerful when **engineering, intelligenc
 
 ---
 
-# 🧠 MY CORE
+#  MY CORE
 
 ```python
 class AhmedRabie:
+
+    name = "Ahmed Rabie Mahmoud"
 
     identity = {
         "role": "AI Engineer",
@@ -90,7 +96,7 @@ class AhmedRabie:
 
 ---
 
-# 🤖 ARTIFICIAL INTELLIGENCE
+#  ARTIFICIAL INTELLIGENCE
 
 My primary technical direction is **Artificial Intelligence and Machine Learning**.
 
@@ -98,16 +104,16 @@ I'm continuously developing my understanding of the mathematical, statistical, a
 
 ### Areas of Focus
 
-* 🐍 Python Programming
-* 🧠 Artificial Intelligence
-* 🤖 Machine Learning
-* 📊 Data Analysis
-* 📐 Statistics
-* ∑ Mathematics for AI
-* 🔎 Exploratory Data Analysis
-* 📈 Data Visualization
-* 🧮 Numerical Computing
-* 🧪 Machine Learning Experimentation
+*  Python Programming
+*  Artificial Intelligence
+*  Machine Learning
+*  Data Analysis
+*  Statistics
+*  Mathematics for AI
+*  Exploratory Data Analysis
+*  Data Visualization
+*  Numerical Computing
+*  Machine Learning Experimentation
 
 ### AI / Data Stack
 
@@ -119,7 +125,7 @@ I'm continuously developing my understanding of the mathematical, statistical, a
 
 ---
 
-# 💻 ENGINEERING
+#  ENGINEERING
 
 I approach programming as more than learning syntax.
 
@@ -133,7 +139,7 @@ The goal is to understand **how systems work**, how data moves through them, and
 
 </div>
 
-### Currently Building My Foundation Around
+### Building My Foundation Around
 
 ```text
 Programming
@@ -151,9 +157,9 @@ Real-World Intelligent Applications
 
 ---
 
-# 🎨 CREATIVE ENGINEERING
+# CREATIVE ENGINEERING
 
-Before AI became my primary technical direction, I developed a strong foundation in **Graphic Design and Digital Media**.
+I have also developed a strong foundation in **Graphic Design and Digital Media**.
 
 That experience shaped the way I think about technology.
 
@@ -177,15 +183,15 @@ I also ask:
 
 ### Creative Expertise
 
-* 🎨 Graphic Design
-* 🧠 Visual Communication
-* 🏷️ Branding & Visual Identity
-* 🖥️ UI/UX Design
-* 🎬 Video Editing
-* 🎞️ Motion Graphics
-* 🧊 3D Design
-* 📱 Digital Content
-* 🖼️ Photo Manipulation
+*  Graphic Design
+*  Visual Communication
+*  Branding & Visual Identity
+*  UI/UX Design
+*  Video Editing
+*  Motion Graphics
+*  3D Design
+*  Digital Content
+*  Photo Manipulation
 
 ### Adobe Ecosystem
 
@@ -193,7 +199,7 @@ I also ask:
 
 ---
 
-# ⚡ THE DIFFERENCE
+#  THE DIFFERENCE
 
 Most people choose one direction.
 
@@ -222,8 +228,6 @@ I chose to explore both.
           & SMART SOLUTIONS
 ```
 
-This combination allows me to approach problems from both sides:
-
 **Logical Thinking + Creative Thinking**
 
 **Analytical Thinking + Visual Thinking**
@@ -232,7 +236,7 @@ This combination allows me to approach problems from both sides:
 
 ---
 
-# 🚀 WHAT I'M BUILDING TOWARD
+#  WHAT I'M BUILDING TOWARD
 
 My long-term goal is to become an engineer capable of moving through the complete lifecycle of an intelligent product:
 
@@ -262,31 +266,31 @@ But:
 
 ---
 
-# 📚 CURRENT LEARNING PATH
+#  CURRENT LEARNING PATH
 
 <div align="center">
 
-### 🐍 Python
+###  Python
 
 ↓
 
-### 📊 Data Analysis
+###  Data Analysis
 
 ↓
 
-### 📐 Statistics & Mathematics
+###  Statistics & Mathematics
 
 ↓
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 ↓
 
-### 🧠 Artificial Intelligence
+###  Artificial Intelligence
 
 ↓
 
-### 🚀 Intelligent Applications
+###  Intelligent Applications
 
 </div>
 
@@ -294,7 +298,7 @@ At the same time, I'm continuously developing my creative and design capabilitie
 
 ---
 
-# 🛠️ TECHNOLOGY STACK
+#  TECHNOLOGY STACK
 
 <div align="center">
 
@@ -332,11 +336,9 @@ At the same time, I'm continuously developing my creative and design capabilitie
 
 ---
 
-# 🧩 HOW I THINK
+#  HOW I THINK
 
 I believe real learning happens when knowledge becomes something you can **build**.
-
-So my approach is simple:
 
 ```text
 LEARN
@@ -360,31 +362,31 @@ Every project is an opportunity to understand something deeper.
 
 ---
 
-# 🔬 PROJECTS
+#  PROJECTS
 
 I'm building projects across different areas of technology and creativity.
 
-### 🤖 Artificial Intelligence
+###  Artificial Intelligence
 
 Machine Learning · Python · Data · Intelligent Systems
 
-### 📊 Data
+###  Data
 
 Data Cleaning · Exploratory Data Analysis · Statistics · Visualization
 
-### 💻 Software
+###  Software
 
 Programming · Algorithms · Databases · Applications
 
-### 🎨 Creative Technology
+###  Creative Technology
 
 Graphic Design · UI/UX · Motion Graphics · Digital Media
 
-> 🚧 **This section will continuously grow as I build and publish more projects.**
+>  **This section will continuously grow as I build and publish more projects.**
 
 ---
 
-# 📊 GITHUB
+#  GITHUB
 
 <div align="center">
 
@@ -400,7 +402,36 @@ Graphic Design · UI/UX · Motion Graphics · Digital Media
 
 ---
 
-# 🎯 MY VISION
+#  CONNECT WITH ME
+
+<div align="center">
+
+###  Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-34729328)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ahmedrabiemahmoud)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedrabie1210-ship-it)
+
+###  AI & Tech Community
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCT291t0qRbXubSVVCw6sq-g)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Disastrous-Emu-7495/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/AHMED_RABIE_MAHMOUD)
+
+###  Creative & Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/AHMED_RABIE_MAHMOUD)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://www.pinterest.com/ahmedrabie1210/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/ahmd.rby.335589)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@ahmedrabi248)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/AhmedRa71975898)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge\&logo=threads\&logoColor=white)](https://www.threads.com/@ahmedrabie134)
+
+</div>
+
+---
+
+#  MY VISION
 
 I want to build a career where **technology and creativity are not separated**.
 
@@ -432,21 +463,23 @@ but also **useful, understandable, and meaningful.**
 
 <div align="center">
 
-# 🚀 BUILDING THE FUTURE, ONE PROJECT AT A TIME.
+#  BUILDING THE FUTURE, ONE PROJECT AT A TIME.
 
 ### AI · Data · Engineering · Design · Creativity
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedrabie1210-ship-it&style=for-the-badge&label=PROFILE+VIEWS"/>
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedrabie1210--ship--it-181717?style=for-the-badge\&logo=github)](https://github.com/ahmedrabie1210-ship-it)
 
 <br><br>
 
-**Thanks for visiting my GitHub profile.**
+**Thanks for visiting my profile.**
+
+###  Explore the repositories. Follow the journey. Build something meaningful.
 
 <br>
 
-⭐ Feel free to explore my repositories and follow the journey.
+<img src="https://komarev.com/ghpvc/?username=ahmedrabie1210-ship-it&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
 
