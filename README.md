@@ -2,13 +2,13 @@
 
 # AHMED RABIE MAHMOUD
 
-### AI Engineer · Machine Learning · Data · Creative Technology
+### 🤖 AI Engineer · 📰 Journalist & Media Professional · 🎨 Full Stack Graphic Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Turning+Data+Into+Insight;Engineering+With+Python;Designing+Digital+Experiences;AI+%C3%97+Engineering+%C3%97+Creativity" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning;Data+%7C+Python+%7C+Intelligent+Systems;Journalist+%26+Media+Professional;Graphic+Design+%7C+UI%2FUX+%7C+Motion+Graphics;Engineering+%C3%97+Media+%C3%97+Creativity" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420px"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420px" alt="Working"/>
 
 <br><br>
 
@@ -18,45 +18,27 @@
 
 ---
 
-#  WHO AM I?
+# 👋 WHO AM I?
 
-I'm **Ahmed Rabie Mahmoud** — an **AI Engineer and Full Stack Graphic Designer** passionate about the intersection between **Artificial Intelligence, Software Engineering, Data, and Visual Creativity**.
+I'm **Ahmed Rabie Mahmoud** — an **AI Engineer, Journalist & Media Professional, and Full Stack Graphic Designer**.
 
-My journey isn't limited to writing code or creating designs.
+My professional identity sits at the intersection of **technology, intelligence, communication, and visual creativity**.
 
-I believe that technology becomes truly powerful when **engineering, intelligence, data, and creativity work together**.
+I am passionate about understanding technology, analyzing information, communicating ideas, and transforming concepts into meaningful digital experiences.
 
-```text
-                ┌─────────────────┐
-                │  ARTIFICIAL     │
-                │  INTELLIGENCE   │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │      DATA       │
-                │  & ANALYTICS   │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │   ENGINEERING   │
-                │  & DEVELOPMENT  │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │    CREATIVITY   │
-                │     & DESIGN    │
-                └─────────────────┘
-```
+I don't see these fields as separate disciplines.
 
-> **I don't see AI and Design as two different worlds.
-> I see them as two ways of solving problems.**
+I see them as different ways of **understanding problems, creating solutions, and communicating ideas.**
+
+> **Technology gives me the tools.
+> Data gives me insight.
+> Journalism gives me perspective.
+> Design gives me expression.
+> Creativity brings them together.**
 
 ---
 
-#  MY CORE
+# 🧠 MY CORE IDENTITY
 
 ```python
 class AhmedRabie:
@@ -64,23 +46,25 @@ class AhmedRabie:
     name = "Ahmed Rabie Mahmoud"
 
     identity = {
-        "role": "AI Engineer",
-        "creative_role": "Full Stack Graphic Designer",
-        "focus": "Intelligent & Creative Technology"
+        "technical": "AI Engineer",
+        "media": "Journalist & Media Professional",
+        "creative": "Full Stack Graphic Designer"
     }
 
-    engineering = [
-        "Python",
+    technology = [
+        "Artificial Intelligence",
         "Machine Learning",
         "Data Analysis",
+        "Python",
         "Software Development"
     ]
 
-    intelligence = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Statistics",
-        "Mathematics for AI"
+    media = [
+        "Journalism",
+        "Media",
+        "Communication",
+        "Content",
+        "Information Analysis"
     ]
 
     creativity = [
@@ -91,29 +75,29 @@ class AhmedRabie:
         "3D Design"
     ]
 
-    philosophy = "Understand → Build → Create → Improve"
+    philosophy = "Understand → Analyze → Build → Communicate → Create → Improve"
 ```
 
 ---
 
-#  ARTIFICIAL INTELLIGENCE
+# 🤖 ARTIFICIAL INTELLIGENCE
 
 My primary technical direction is **Artificial Intelligence and Machine Learning**.
 
-I'm continuously developing my understanding of the mathematical, statistical, and programming foundations behind intelligent systems.
+I'm continuously developing my knowledge of the mathematical, statistical, programming, and analytical foundations behind intelligent systems.
 
 ### Areas of Focus
 
-*  Python Programming
-*  Artificial Intelligence
-*  Machine Learning
-*  Data Analysis
-*  Statistics
-*  Mathematics for AI
-*  Exploratory Data Analysis
-*  Data Visualization
-*  Numerical Computing
-*  Machine Learning Experimentation
+* 🐍 Python Programming
+* 🧠 Artificial Intelligence
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 📐 Statistics
+* ∑ Mathematics for AI
+* 🔎 Exploratory Data Analysis
+* 📈 Data Visualization
+* 🧮 Numerical Computing
+* 🧪 Machine Learning Experimentation
 
 ### AI / Data Stack
 
@@ -125,11 +109,11 @@ I'm continuously developing my understanding of the mathematical, statistical, a
 
 ---
 
-#  ENGINEERING
+# 💻 ENGINEERING
 
 I approach programming as more than learning syntax.
 
-The goal is to understand **how systems work**, how data moves through them, and how individual components become reliable software.
+My goal is to understand **how systems work**, how data moves through them, and how technology can be transformed into practical solutions.
 
 ### Languages & Technologies
 
@@ -139,7 +123,7 @@ The goal is to understand **how systems work**, how data moves through them, and
 
 </div>
 
-### Building My Foundation Around
+### My Engineering Path
 
 ```text
 Programming
@@ -150,28 +134,50 @@ Databases
      ↓
 Software Engineering
      ↓
-AI / Machine Learning
+Data Analysis
+     ↓
+Machine Learning
+     ↓
+Artificial Intelligence
      ↓
 Real-World Intelligent Applications
 ```
 
 ---
 
-# CREATIVE ENGINEERING
+# 📰 JOURNALISM & MEDIA
 
-I have also developed a strong foundation in **Graphic Design and Digital Media**.
+Journalism and media are an essential part of who I am.
 
-That experience shaped the way I think about technology.
+I am interested in the power of **information, storytelling, communication, analysis, and digital media**.
 
-I don't only ask:
+Technology allows us to process information.
 
-> "How does it work?"
+Journalism helps us **understand and communicate it**.
 
-I also ask:
+### Media Interests
 
-> "How should it look?"
-> "How should it feel?"
-> "How will people experience it?"
+* 📰 Journalism
+* 🎙️ Media & Communication
+* ✍️ Content Creation
+* 🔎 Information Research
+* 📡 Digital Media
+* 🎥 Visual Storytelling
+* 🧠 Analytical Thinking
+* 📢 Media Communication
+* 🌐 Digital Content
+
+I believe that powerful technology is not only about building systems.
+
+It is also about **communicating ideas clearly and making information accessible.**
+
+---
+
+# 🎨 FULL STACK GRAPHIC DESIGN
+
+I also have a strong creative identity built around **Graphic Design and Digital Media**.
+
+My design journey taught me to think visually, communicate ideas through design, and pay attention to how people experience digital products.
 
 ### Creative Stack
 
@@ -183,15 +189,16 @@ I also ask:
 
 ### Creative Expertise
 
-*  Graphic Design
-*  Visual Communication
-*  Branding & Visual Identity
-*  UI/UX Design
-*  Video Editing
-*  Motion Graphics
-*  3D Design
-*  Digital Content
-*  Photo Manipulation
+* 🎨 Graphic Design
+* 🧠 Visual Communication
+* 🏷️ Branding & Visual Identity
+* 🖥️ UI/UX Design
+* 🎬 Video Editing
+* 🎞️ Motion Graphics
+* 🧊 3D Design
+* 📱 Digital Content
+* 🖼️ Photo Manipulation
+* 🎥 Visual Storytelling
 
 ### Adobe Ecosystem
 
@@ -199,106 +206,118 @@ I also ask:
 
 ---
 
-#  THE DIFFERENCE
+# ⚡ THE INTERSECTION
 
-Most people choose one direction.
-
-**Code OR Design.**
-
-I chose to explore both.
+What makes my journey different is the combination of three disciplines:
 
 ```text
-              ENGINEERING
-                   │
-                   │
-                   ▼
-              AI / DATA
-                   │
-                   │
-        ┌──────────┴──────────┐
-        │                     │
-        ▼                     ▼
-    INTELLIGENCE          CREATIVITY
-        │                     │
-        │                     │
-        └──────────┬──────────┘
-                   │
-                   ▼
-          DIGITAL PRODUCTS
-          & SMART SOLUTIONS
+                 ┌───────────────────┐
+                 │   AI ENGINEERING  │
+                 │   DATA & CODE     │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ JOURNALISM &      │
+                 │ MEDIA             │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ DESIGN &          │
+                 │ CREATIVITY        │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │ CREATIVE          │
+                 │ TECHNOLOGY        │
+                 └───────────────────┘
 ```
 
-**Logical Thinking + Creative Thinking**
+### Engineering + Intelligence + Communication + Creativity
 
-**Analytical Thinking + Visual Thinking**
+This combination allows me to look at problems from different perspectives:
 
-**Engineering + Design**
+**Logical Thinking + Analytical Thinking**
+
+**Technical Thinking + Media Thinking**
+
+**Visual Thinking + Creative Thinking**
+
+**Engineering + Communication + Design**
 
 ---
 
-#  WHAT I'M BUILDING TOWARD
+# 🚀 WHAT I'M BUILDING TOWARD
 
-My long-term goal is to become an engineer capable of moving through the complete lifecycle of an intelligent product:
+My long-term goal is to become a professional capable of moving across the complete lifecycle of technology-driven ideas:
 
 ```text
 Problem
+   ↓
+Research
+   ↓
+Information
    ↓
 Data
    ↓
 Analysis
    ↓
-Model
+Intelligence
    ↓
 Engineering
    ↓
-Interface
+Design
+   ↓
+Communication
    ↓
 Product
 ```
 
 Not simply:
 
-> "Train a Machine Learning model."
+> **Build a Machine Learning model.**
 
 But:
 
-> **Understand the problem → analyze the data → build the intelligence → engineer the solution → design the experience.**
+> **Research the problem → understand the information → analyze the data → build the intelligence → engineer the solution → design the experience → communicate the result.**
 
 ---
 
-#  CURRENT LEARNING PATH
+# 📚 CURRENT LEARNING PATH
 
 <div align="center">
 
-###  Python
+### 🐍 Python
 
 ↓
 
-###  Data Analysis
+### 📊 Data Analysis
 
 ↓
 
-###  Statistics & Mathematics
+### 📐 Statistics & Mathematics
 
 ↓
 
-###  Machine Learning
+### 🤖 Machine Learning
 
 ↓
 
-###  Artificial Intelligence
+### 🧠 Artificial Intelligence
 
 ↓
 
-###  Intelligent Applications
+### 🚀 Intelligent Applications
 
 </div>
 
-At the same time, I'm continuously developing my creative and design capabilities.
+Alongside my technical development, I continue to strengthen my capabilities in **journalism, media, communication, visual design, and digital content creation**.
 
 ---
 
-#  TECHNOLOGY STACK
+# 🛠️ TECHNOLOGY STACK
 
 <div align="center">
 
@@ -309,7 +328,7 @@ At the same time, I'm continuously developing my creative and design capabilitie
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Data & AI
+### AI & Data
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -323,12 +342,14 @@ At the same time, I'm continuously developing my creative and design capabilitie
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-### Design
+### Design & Creative
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobe-illustrator\&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge\&logo=adobe-indesign\&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge\&logo=adobe-after-effects\&logoColor=white)
+![Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge\&logo=adobe-audition\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
 
@@ -336,20 +357,24 @@ At the same time, I'm continuously developing my creative and design capabilitie
 
 ---
 
-#  HOW I THINK
+# 🧩 HOW I THINK
 
-I believe real learning happens when knowledge becomes something you can **build**.
+I believe real growth happens when knowledge becomes **practice** and practice becomes **creation**.
 
 ```text
 LEARN
   ↓
 UNDERSTAND
   ↓
+RESEARCH
+  ↓
 PRACTICE
   ↓
 BUILD
   ↓
-MAKE MISTAKES
+COMMUNICATE
+  ↓
+CREATE
   ↓
 ANALYZE
   ↓
@@ -358,35 +383,56 @@ IMPROVE
 BUILD AGAIN
 ```
 
-Every project is an opportunity to understand something deeper.
+Every project is an opportunity to learn something deeper.
+
+Every challenge is an opportunity to improve.
 
 ---
 
-#  PROJECTS
+# 🔬 PROJECTS
 
-I'm building projects across different areas of technology and creativity.
+I'm interested in building and exploring projects across several domains.
 
-###  Artificial Intelligence
+### 🤖 Artificial Intelligence
 
-Machine Learning · Python · Data · Intelligent Systems
+Machine Learning · Python · Intelligent Systems · AI Applications
 
-###  Data
+### 📊 Data
 
-Data Cleaning · Exploratory Data Analysis · Statistics · Visualization
+Data Analysis · Data Cleaning · EDA · Statistics · Visualization
 
-###  Software
+### 💻 Software
 
 Programming · Algorithms · Databases · Applications
 
-###  Creative Technology
+### 📰 Media & Digital Content
 
-Graphic Design · UI/UX · Motion Graphics · Digital Media
+Journalism · Research · Communication · Digital Media · Content
 
->  **This section will continuously grow as I build and publish more projects.**
+### 🎨 Creative Technology
+
+Graphic Design · UI/UX · Motion Graphics · Video · 3D
+
+> 🚧 **This portfolio will continuously grow as I build, learn, and publish more work.**
 
 ---
 
-#  GITHUB
+# 🌍 MY PROFESSIONAL DIRECTION
+
+My journey is driven by one idea:
+
+> **Use technology to understand.
+> Use media to communicate.
+> Use design to express.
+> Use creativity to create impact.**
+
+My goal is not to be defined by a single tool or discipline.
+
+My goal is to become a professional who can **think across disciplines and build meaningful solutions.**
+
+---
+
+# 📊 GITHUB
 
 <div align="center">
 
@@ -402,23 +448,23 @@ Graphic Design · UI/UX · Motion Graphics · Digital Media
 
 ---
 
-#  CONNECT WITH ME
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
-###  Professional
+### 💼 Professional & Technical
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedrabie1210-ship-it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-rabie-34729328)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ahmedrabiemahmoud)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedrabie1210-ship-it)
 
-###  AI & Tech Community
+### 📰 Media & Content
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCT291t0qRbXubSVVCw6sq-g)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Disastrous-Emu-7495/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/AHMED_RABIE_MAHMOUD)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Disastrous-Emu-7495/)
 
-###  Creative & Social
+### 🎨 Creative & Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/AHMED_RABIE_MAHMOUD)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://www.pinterest.com/ahmedrabie1210/)
@@ -431,13 +477,13 @@ Graphic Design · UI/UX · Motion Graphics · Digital Media
 
 ---
 
-#  MY VISION
+# 🎯 MY VISION
 
-I want to build a career where **technology and creativity are not separated**.
+I want to build a career where **technology, intelligence, journalism, media, and creativity are not isolated disciplines.**
 
-Where I can use:
+Where I can combine:
 
-**Mathematics**
+**Artificial Intelligence**
 
 *
 
@@ -449,23 +495,31 @@ Where I can use:
 
 *
 
-**Artificial Intelligence**
+**Journalism**
+
+*
+
+**Media**
 
 *
 
 **Design**
 
-to create things that are not only technically powerful...
+to create solutions that are not only technically capable...
 
-but also **useful, understandable, and meaningful.**
+but also **clear, creative, useful, and meaningful.**
 
 ---
 
 <div align="center">
 
-#  BUILDING THE FUTURE, ONE PROJECT AT A TIME.
+# 🚀 ENGINEERING INTELLIGENCE.
 
-### AI · Data · Engineering · Design · Creativity
+# 📰 COMMUNICATING IDEAS.
+
+# 🎨 DESIGNING EXPERIENCES.
+
+### AI · Data · Engineering · Journalism · Media · Design · Creativity
 
 <br>
 
@@ -473,9 +527,7 @@ but also **useful, understandable, and meaningful.**
 
 <br><br>
 
-**Thanks for visiting my profile.**
-
-###  Explore the repositories. Follow the journey. Build something meaningful.
+**Learn. Research. Build. Communicate. Create.**
 
 <br>
 
